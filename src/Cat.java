@@ -13,7 +13,7 @@ public class Cat
     {
         return alive;
     }
-
+    //comment_1
     public Cat()
     {
             weight = 1500.0 + 3000.0 * Math.random();
