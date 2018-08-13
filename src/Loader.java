@@ -10,13 +10,13 @@ public class Loader
         try
         {
             System.out.println(Cat.getCount());
-            Cat cat1 = new Cat(2000.0);
+            Cat cat111 = new Cat(2000.0);
             System.out.println(Cat.getCount());
-            cat1.meow();
-            System.out.println(cat1.getWeight());
-            System.out.println(Cat.getCount() + " but the cat is " + cat1.getStatus());
-            cat1.feed(15000.0);
-            System.out.println(Cat.getCount() + " but the cat is " + cat1.getStatus());
+            cat111.meow();
+            System.out.println(cat111.getWeight());
+            System.out.println(Cat.getCount() + " but the cat is " + cat111.getStatus());
+            cat111.feed(15000.0);
+            System.out.println(Cat.getCount() + " but the cat is " + cat111.getStatus());
 
 //        //создаём котов, для третьего кота значение вема получаем из консоли
 //        Cat cat1 = new Cat();
