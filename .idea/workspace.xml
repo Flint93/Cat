@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="commit_4">
+    <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="commit_3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loader.java" afterDir="false" />
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
     </list>
     <ignored path="Cat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,21 +53,26 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="32" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="32" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.extensions.open" />
     </session>
     <session id="-1293717501">
       <usages-collector id="statistics.lifecycle.project">
@@ -123,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+            <state relative-caret-position="729">
+              <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
               <folding>
                 <element signature="e#274#275#0" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -163,10 +169,17 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+=======
   <component name="ProjectFrameBounds">
     <option name="x" value="1273" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -299,12 +312,21 @@
       <option name="presentableId" value="Default" />
       <updated>1440574635454</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00001" summary="commit_2">
+      <created>1534073327655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534073327655</updated>
+=======
     <task id="LOCAL-00001" summary="commit_3">
       <created>1534142410791</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1534142410791</updated>
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
     </task>
     <task id="LOCAL-00002" summary="commit_4">
       <created>1534171172410</created>
@@ -317,7 +339,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+=======
     <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2496329" />
@@ -336,8 +362,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50162077" side_tool="true" visible="true" weight="0.36692223" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32976446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -352,6 +379,8 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+<<<<<<< HEAD
+=======
         <entry key="1">
           <value>
             <State>
@@ -412,6 +441,7 @@
             </State>
           </value>
         </entry>
+>>>>>>> 59e6052bbfd679bc47faf750b4bb9b1fe9551410
         <entry key="MAIN">
           <value>
             <State>
@@ -447,9 +477,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="commit_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
+=======
     <MESSAGE value="commit_3" />
-    <MESSAGE value="commit_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_3" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -485,8 +518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Loader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        <state relative-caret-position="729">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
