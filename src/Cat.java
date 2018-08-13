@@ -98,5 +98,6 @@ public class Cat {
         this.alive = alive;
         minWeight = 1000.0;
         maxWeight = 9000.0;
+        count++;
     }
 }

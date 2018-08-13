@@ -44,6 +44,7 @@ public class Loader
         Cat cat1 = new Cat(cat2);
         System.out.println(cat1.getWeight());
         System.out.println(cat2.getWeight());
+        System.out.println("Live cats: " + Cat.getCount());
         cat1.meow();
         System.out.println(cat1.getWeight());
         System.out.println(cat2.getWeight());
